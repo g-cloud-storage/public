@@ -1,0 +1,62 @@
+FREE PLAN
+-intel xeon silver
+-2GB ram
+-10TB storage
+-500mbps ethernet
+-nvdia gtx720
+transfer data {
+    min   :10mbps
+    avrage:300mbps
+    max:511mbps
+}
+
+
+
+STARTER
+-intel xeon silver
+-ram 4 GB
+-1gbps internet
+-10TB storage 
+-nvdia 720
+-128 gb for boot
+transfer data{
+    min   :100mbps
+    avrage:600mbps
+    max   :970mbps
+}
+
+FAMILY
+server 1 [for family high tier or professional]                   
+-amd EPYC 7003          
+-ram 16 GB              
+-nvdia rtx 1080 ti          
+-34TB storage               
+-2GBPS internet             
+transfer data{              
+    min   :343mbps          
+    avrage:1.3Gbps          
+    max   :1.9Gbps          
+}
+server 2 [for family mid tier]
+-amd EPYC 7003
+-ram 8 GB
+-nvdia rtx 1080 ti
+-34TB storage
+-2GBPS internet
+transfer data{
+    min   :343mbps
+    avrage:1.3Gbps
+    max   :1.9Gbps
+}
+
+FAMILY low tier
+-intel core i9 gen 10
+-ram 8GB
+-amd radeon RX 6600 XT
+-1GBPS internet
+-30TB storage
+transfer data{
+    min   :80mbps
+    avrage:300mbps
+    max   :890mbps
+}
